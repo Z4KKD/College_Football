@@ -29,6 +29,6 @@ Notes: None
 ```
 
 ## Author
-[Zachary Duncan]
+Z4KKD
 
 Feel free to modify the script or integrate it into your own projects. Contributions and feedback are welcome!
